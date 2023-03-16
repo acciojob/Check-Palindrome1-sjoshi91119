@@ -12,7 +12,7 @@ function palindrome(str){
 // 	}
 // 	return verdict;
 // }
-
+ str.toLowerCase();
  const len = str.length;
 
     // loop through half of the string
